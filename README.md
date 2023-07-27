@@ -44,10 +44,10 @@ I have showed the execution values of 4 sample of the classification of my input
 If you would like to contribute to this project, please follow these guidelines:
 
 # Fork the repository on GitHub.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them with descriptive commit messages.
-Push your changes to your forked repository.
-Submit a pull request, and your changes will be reviewed.
+-> Create a new branch for your feature or bug fix.
+-> Make your changes and commit them with descriptive commit messages.
+-> Push your changes to your forked repository.
+-> Submit a pull request, and your changes will be reviewed.
 # License
 MIT Licence
 
